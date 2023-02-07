@@ -302,13 +302,7 @@ input {
   object-fit: cover;
   object-position: 83%;
 }
-p
 
-{
-
-color:blue;
-
-}
 .home__container {
   position: relative;
   height: calc(100vh - var(--header-height));
